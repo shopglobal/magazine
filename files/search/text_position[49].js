@@ -1,0 +1,1 @@
+﻿positionForPages[48] = {"page":49, "positions":[{"word":"m {","left":0.023854,"top":0.266285,"width":0.953404,"height":0.047034},{"word":" z} ","left":0.043531,"top":0.931036,"width":0.896465,"height":0.047034}]};
