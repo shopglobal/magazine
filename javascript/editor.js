@@ -1,1 +1,1 @@
-﻿var pageEditor = [];
+﻿var pageEditor ={"setting":{}, "pageAnnos":[]};
